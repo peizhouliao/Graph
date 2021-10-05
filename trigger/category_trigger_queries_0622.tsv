@@ -4361,6 +4361,8 @@ food.bakeries	boulangerie	en-US	0622
 food.bakeries	cake	en-US	0622
 food.bakeries	cakes	en-US	0622
 food.bakeries	gateau	en-US	0622
+food.beer_and_wine	alcohol shop	en-US	0622
+food.beer_and_wine	alcohol store	en-US	0622
 food.beer_and_wine	alcoholic spirits	en-US	0622
 food.beer_and_wine	alcoholic spirits store	en-US	0622
 food.beer_and_wine	alcoholic spirits stores	en-US	0622
@@ -4406,6 +4408,9 @@ food.breweries	brewerie	en-US	0622
 food.breweries	breweries	en-US	0622
 food.breweries	brewery	en-US	0622
 food.breweries	brewerys	en-US	0622
+food.bubbletea	boba tea	en-US	0622
+food.bubbletea	boba shop	en-US	0622
+food.bubbletea	boba shops	en-US	0622
 food.butcher	butcher	en-US	0622
 food.butcher	butcher shop	en-US	0622
 food.butcher	butcher shopping	en-US	0622
@@ -4841,6 +4846,7 @@ health.clinics	medical care	en-US	0622
 health.clinics	medical service	en-US	0622
 health.clinics	medical services	en-US	0622
 health.clinics	patient care	en-US	0622
+health.dentists	dental office	en-US	0622
 health.dentists	dental surgeon	en-US	0622
 health.dentists	dentist	en-US	0622
 health.dentists	dentists	en-US	0622
@@ -8382,6 +8388,7 @@ restaurants	lunches	en-US	0622
 restaurants	lunching	en-US	0622
 restaurants	lunchtime	en-US	0622
 restaurants	place to dining	en-US	0622
+restaurants	to eat	en-US	0622
 restaurants	place to eat	en-US	0622
 restaurants	place to eaten	en-US	0622
 restaurants	place to eating	en-US	0622
