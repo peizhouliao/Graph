@@ -1487,6 +1487,8 @@ auto.autoglass	windshields replacements	en-US	0622
 auto.autoglass	windshields replaces	en-US	0622
 auto.autoglass	windshields replacing	en-US	0622
 auto.autoglass	windshields replacment	en-US	0622
+auto.motorcycledealers	dirt bike	en-US	0622
+auto.motorcycledealers	dirt bikes	en-US	0622
 auto.autopartssupplies	auto part	en-US	0622
 auto.autopartssupplies	auto part store	en-US	0622
 auto.autopartssupplies	auto part stores	en-US	0622
@@ -1649,6 +1651,8 @@ auto.autorepair	motorcar repairers	en-US	0622
 auto.autorepair	motorcar repairing	en-US	0622
 auto.autorepair	motorcar repairman	en-US	0622
 auto.autorepair	motorcar repairs	en-US	0622
+auto.autorepair	muffler shop	en-US	0622
+auto.autorepair	muffler shops	en-US	0622
 auto.autorepair	passenger vehicle maintain	en-US	0622
 auto.autorepair	passenger vehicle mending	en-US	0622
 auto.autorepair	passenger vehicle operation and maintenance	en-US	0622
@@ -9221,6 +9225,8 @@ restaurants.soulfood	souls food	en-US	0622
 restaurants.soulfood	souls fooding	en-US	0622
 restaurants.soulfood	souls foods	en-US	0622
 restaurants.soulfood	souls foodstuff	en-US	0622
+restaurants.soup	soup	en-US	0622
+restaurants.soup	soups	en-US	0622
 restaurants.spanish	spanish food	en-US	0622
 restaurants.spanish	spanish restaurant	en-US	0622
 restaurants.spanish	spanish restaurants	en-US	0622
@@ -9734,6 +9740,7 @@ shopping.fashion	garments store	en-US	0622
 shopping.fashion	garments stores	en-US	0622
 shopping.fashion	outfit store	en-US	0622
 shopping.fashion	outfit stores	en-US	0622
+shopping.fashion	western wear	en-US	0622
 shopping.fashion.formalwear	prom dress	en-US	0622
 shopping.fashion.formalwear	prom dresse	en-US	0622
 shopping.fashion.formalwear	prom dressed	en-US	0622
@@ -10218,6 +10225,8 @@ shopping.medicalsupplies	medics supplying stores	en-US	0622
 shopping.mobilephones	iphon	en-US	0622
 shopping.mobilephones	iphone	en-US	0622
 shopping.mobilephones	iphones	en-US	0622
+shopping.mobilephones	buy phone	en-US	0622
+shopping.mobilephones	buy phones	en-US	0622
 shopping.mobilephones	phone store	en-US	0622
 shopping.mobilephones	phone stores	en-US	0622
 shopping.mobilephones	phones store	en-US	0622
@@ -10248,6 +10257,7 @@ shopping.officeequipment	offices supplies	en-US	0622
 shopping.officeequipment	offices supply	en-US	0622
 shopping.officeequipment	printer	en-US	0622
 shopping.officeequipment	printers	en-US	0622
+shopping.officeequipment	printer ink	en-US	0622
 shopping.opticians	dark glasses	en-US	0622
 shopping.opticians	eyeglass	en-US	0622
 shopping.opticians	eyeglasses	en-US	0622
