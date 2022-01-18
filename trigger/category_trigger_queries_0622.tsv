@@ -6053,9 +6053,9 @@ homeservices.utilities	utility company	en-US	0622
 homeservices.utilities	utility industry	en-US	0622
 homeservices.utilities	utilitys	en-US	0622
 homeservices.utilities	utils	en-US	0622
-hotelstravel.airports	airpoprts	en-US	0622
-hotelstravel.airports	airport	en-US	0622
-hotelstravel.airports	airports	en-US	0622
+hotelstravel.airports.internationalairports	airpoprts	en-US	0622
+hotelstravel.airports.internationalairports	airport	en-US	0622
+hotelstravel.airports.internationalairports	airports	en-US	0622
 hotelstravel.bedbreakfast	abed and breakfast	en-US	0622
 hotelstravel.bedbreakfast	abed and breakfasts	en-US	0622
 hotelstravel.bedbreakfast	abed and breakfeast	en-US	0622
@@ -6215,8 +6215,9 @@ hotelstravel.hotels	hotels rooms	en-US	0622
 hotelstravel.hotels	hotels suite	en-US	0622
 hotelstravel.hotels	hotels suiteness	en-US	0622
 hotelstravel.hotels	hotels suites	en-US	0622
-hotelstravel.hotels	inn	en-US	0622
-hotelstravel.hotels	inns	en-US	0622
+hotelstravel.hotels.inn	inn	en-US	0622
+hotelstravel.hotels.inn	inns	en-US	0622
+hotelstravel.hotels.ryokan	ryokan	en-US	0622
 hotelstravel.hotels.reststops	rest area	en-US	0622
 hotelstravel.hotels.reststops	rest areas	en-US	0622
 hotelstravel.hotels.reststops	rest stop	en-US	0622
@@ -6547,6 +6548,7 @@ localservices.drycleaninglaundry.laundromat	laundrywoman mat	en-US	0622
 localservices.drycleaninglaundry.laundromat	laundrywoman mats	en-US	0622
 localservices.drycleaninglaundry.laundromat	laundrywoman matting	en-US	0622
 localservices.drycleaninglaundry.laundromat	self-service laundry	en-US	0622
+localservices.electronicsrepair	tv repair	en-US	0622
 localservices.fingerprinting	finger printing	en-US	0622
 localservices.fingerprinting	finger prints	en-US	0622
 localservices.fingerprinting	finger-print	en-US	0622
@@ -8275,6 +8277,7 @@ realestate.apartments	apartments for rents	en-US	0622
 realestate.apartments	apt	en-US	0622
 realestate.apartments	apts	en-US	0622
 realestate.apartments	mansion block for rent	en-US	0622
+realestate.apartments	places to rent	en-US	0622
 realestate.estateliquidation	estat sale	en-US	0622
 realestate.estateliquidation	estat sales	en-US	0622
 realestate.estateliquidation	estat salesboy	en-US	0622
@@ -8555,7 +8558,9 @@ restaurants.breakfast_brunch	brunching places	en-US	0622
 restaurants.buffets	buffet	en-US	0622
 restaurants.buffets	buffets	en-US	0622
 restaurants.burgers	burger	en-US	0622
+restaurants.burgers	burger restaurant	en-US	0622
 restaurants.burgers	burgers	en-US	0622
+restaurants.burgers	burgers restaurant	en-US	0622
 restaurants.burgers	hamburger	en-US	0622
 restaurants.burgers	hamburgers	en-US	0622
 restaurants.cafes	cafe	en-US	0622
@@ -8999,6 +9004,8 @@ restaurants.mexican.tacos	tacos	en-US	0622
 restaurants.mexican.tacos	tacos shop	en-US	0622
 restaurants.mexican.tacos	tacos shopping	en-US	0622
 restaurants.mexican.tacos	tacos shops	en-US	0622
+restaurants.noodles	noodle	en-US	0622
+restaurants.noodles	noodles	en-US	0622
 restaurants.peruvian	peruvian food	en-US	0622
 restaurants.peruvian	peruvian eateries	en-US	0622
 restaurants.peruvian	peruvian eatery	en-US	0622
@@ -10281,9 +10288,11 @@ shopping.outlet_stores	outlet	en-US	0622
 shopping.outlet_stores	outlets	en-US	0622
 shopping.pawn	pawn	en-US	0622
 shopping.pawn	pawn shop	en-US	0622
+shopping.pawn	pawnshop	en-US	0622
 shopping.pawn	pawn shoppe	en-US	0622
 shopping.pawn	pawn shopping	en-US	0622
 shopping.pawn	pawn shops	en-US	0622
+shopping.pawn	pawnshops	en-US	0622
 shopping.pawn	pawned	en-US	0622
 shopping.pawn	pawned shop	en-US	0622
 shopping.pawn	pawned shoppe	en-US	0622
